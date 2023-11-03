@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="44.203" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Login to HRM WebApplication" name="Login with valid credentials" time="43.795">
+<system-out><![CDATA[
+Given User is on HRMLogin page..............................................passed
+When User provides valid credentials........................................passed
+And User should be able to login sucessfully and see homepage...............passed
+]]></system-out>
+</testcase>
+</testsuite>
